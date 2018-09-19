@@ -1,3 +1,3 @@
 # gbd-glosario-18-19
 Glosario para el módulo de Gestión de Bases de Datos
-Esto es un texto de prueba.
+Esto es un texto de prueba
